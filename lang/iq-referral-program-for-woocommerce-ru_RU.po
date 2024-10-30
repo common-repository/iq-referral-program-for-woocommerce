@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-02-23 23:59+0300\n"
+"PO-Revision-Date: 2023-02-23 23:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: data/data_form_pop.php:5 data/data_ref_balance_do.php:14
+#: data/data_ref_balance_pop.php:14 data/data_ws_status_do.php:14
+#: iq-referral-program-for-woocommerce.php:196
+#: templates/iq_rpw_action_logs.php:45 templates/iq_rpw_logs.php:45
+#: templates/iq_rpw_requests.php:25 templates/iq_rpw_settings.php:32
+#: templates/iq_rpw_users_list.php:89 wizard/data/data_wizard_import.php:8
+msgid ""
+"For the affiliate program to work, you need install and activated "
+"Woocommerce plugin"
+msgstr ""
+"Для работы партнерской программы необходимо установить и активировать плагин "
+"Woocommerce."
+
+#: data/data_form_pop.php:13 data/data_form_pop.php:19
+#: data/data_form_pop.php:26 data/data_ref_balance_do.php:66
+#: data/data_ref_balance_do.php:72 data/data_ref_balance_do.php:79
+#: data/data_ref_balance_pop.php:22 data/data_ref_balance_pop.php:28
+#: data/data_ref_balance_pop.php:35 data/data_system_add_do.php:57
+#: data/data_system_add_do.php:63 data/data_system_add_do.php:70
+#: data/data_ws_code_update.php:21 data/data_ws_code_update.php:27
+#: data/data_ws_code_update.php:34 data/data_ws_status_do.php:62
+#: data/data_ws_status_do.php:68 data/data_ws_status_do.php:75
+#: data/data_ws_status_index.php:16 data/data_ws_status_index.php:22
+#: data/data_ws_status_index.php:29 wizard/data/data_wizard_import.php:15
+#: wizard/data/data_wizard_import.php:21 wizard/data/data_wizard_import.php:28
+#: wizard/data/data_wizard_settings_do.php:17
+#: wizard/data/data_wizard_settings_do.php:23
+#: wizard/data/data_wizard_settings_do.php:30
+#: wizard/data/data_wizard_withdraw_do.php:12
+#: wizard/data/data_wizard_withdraw_do.php:18
+#: wizard/data/data_wizard_withdraw_do.php:25
+msgid "Authorization required"
+msgstr "Требуется авторизация"
+
+#: data/data_form_pop.php:36 data/data_ref_balance_do.php:114
+#: data/data_ref_balance_pop.php:52 data/data_status_change.php:19
+msgid "Partner not found"
+msgstr "Партнер не найден"
+
+#: data/data_form_pop.php:48 templates/iq_rpw_account.php:62
+#: templates/iq_rpw_account_withdraw.php:34
+#: templates/iq_rpw_account_withdraw.php:228
+msgid "Withdrawal request"
+msgstr "Заявка на вывод"
+
+#: data/data_form_pop.php:49 templates/iq_rpw_account_withdraw.php:235
+msgid "Create payout"
+msgstr "Создать выплату"
+
+#: data/data_form_pop.php:94 data/data_ref_balance_pop.php:101
+#: data/data_system_add.php:81 data/data_ws_status_index.php:105
+msgid "Close"
+msgstr "Закрыть"
+
+#: data/data_form_pop.php:106
+msgid "Requisites for withdrawing"
+msgstr "Реквизиты для вывода"
+
+#: data/data_form_pop.php:114
+msgid "Payout system"
+msgstr "Система выплаты"
+
+#: data/data_form_pop.php:132
+msgid "- Choose a system for withdrawing - "
+msgstr "- Выберите систему для вывода -"
+
+#: data/data_form_pop.php:161 templates/iq_rpw_account_withdraw.php:285
+msgid "Withdrawal amount"
+msgstr "Сумма вывода"
+
+#: data/data_form_pop.php:199
+msgid "Payout comment"
+msgstr "Комментарий к выплате"
+
+#: data/data_ref_balance_do.php:86 data/data_ref_balance_pop.php:42
+#: data/data_system_add_do.php:77 data/data_ws_code_update.php:41
+#: data/data_ws_status_do.php:82 data/data_ws_status_index.php:36
+#: wizard/data/data_wizard_import.php:35
+#: wizard/data/data_wizard_settings_do.php:37
+#: wizard/data/data_wizard_withdraw_do.php:32
+msgid "Access denied"
+msgstr "Доступ запрещен"
+
+#: data/data_ref_balance_do.php:147 data/data_system_add_do.php:216
+#: data/data_system_delete.php:18 data/data_ws_code_update.php:79
+#: data/data_ws_status_index.php:90 templates/iq_rpw_account_withdraw.php:154
+#: templates/iq_rpw_account_withdraw.php:171 templates/iq_rpw_requests.php:54
+#: templates/iq_rpw_settings.php:77 wizard/data/data_wizard_import.php:42
+#: wizard/data/data_wizard_settings_do.php:98
+#: wizard/data/data_wizard_withdraw_do.php:121
+msgid "Error"
+msgstr "Ошибка"
+
+#: data/data_ref_balance_pop.php:74
+msgid "Change balance"
+msgstr "Изменить баланс"
+
+#: data/data_ref_balance_pop.php:75 data/data_system_add.php:29
+#: data/data_ws_status_index.php:147 templates/iq_rpw_settings.php:200
+msgid "Save"
+msgstr "Сохранить"
+
+#: data/data_system_add.php:27
+msgid "Edit withdrawal system"
+msgstr "Изменить систему вывода"
+
+#: data/data_system_add.php:42
+msgid "Add a withdrawal system"
+msgstr "Добавить систему вывода"
+
+#: data/data_system_add.php:45
+#: templates/iq_rpw_settings_withdrawal_systems.php:33
+#: templates/iq_rpw_settings_withdrawal_systems.php:81
+msgid "Add"
+msgstr "Добавить"
+
+#: data/data_system_add.php:92
+#: templates/iq_rpw_settings_withdrawal_systems.php:43
+#: templates/iq_rpw_settings_withdrawal_systems.php:93
+#: wizard/pages/iq_rpw_wizard_step4.php:46
+msgid "System name"
+msgstr "Название"
+
+#: data/data_system_add.php:94 data/data_system_add_do.php:103
+#: data/data_system_add_do.php:108 wizard/data/data_wizard_withdraw_do.php:67
+#: wizard/data/data_wizard_withdraw_do.php:72
+#: wizard/pages/iq_rpw_wizard_step4.php:48
+msgid "Name of the withdrawal system"
+msgstr "Название системы вывода"
+
+#: data/data_system_add.php:100
+#: templates/iq_rpw_settings_withdrawal_systems.php:47
+#: templates/iq_rpw_settings_withdrawal_systems.php:96
+#: wizard/pages/iq_rpw_wizard_step4.php:52
+msgid "Minimum withdraw amount"
+msgstr "Минимальная сумма вывода"
+
+#: data/data_system_add.php:108
+#: templates/iq_rpw_settings_withdrawal_systems.php:51
+#: templates/iq_rpw_settings_withdrawal_systems.php:99
+#: wizard/pages/iq_rpw_wizard_step4.php:58
+msgid "Comission"
+msgstr "Комиссия"
+
+#: data/data_system_add.php:131 data/data_ws_item_reload.php:113
+#: templates/iq_rpw_account_withdraw.php:293
+#: templates/iq_rpw_account_withdraw.php:363 templates/iq_rpw_requests.php:122
+#: templates/iq_rpw_settings_withdrawal_systems.php:55
+#: templates/iq_rpw_settings_withdrawal_systems.php:102
+msgid "Status"
+msgstr "Статус"
+
+#: data/data_system_add_do.php:102 data/data_system_add_do.php:107
+#: wizard/data/data_wizard_withdraw_do.php:66
+#: wizard/data/data_wizard_withdraw_do.php:71
+#, php-format
+msgid "You must enter a «%s»"
+msgstr "Вы должны ввести «%s»"
+
+#: data/data_system_add_do.php:176
+msgid "Admin update withdrawal system"
+msgstr "Обновлена система вывода"
+
+#: data/data_system_add_do.php:210 wizard/data/data_wizard_withdraw_do.php:133
+msgid "Admin add new withdrawal system"
+msgstr "Добавлена новая система вывода"
+
+#: data/data_user_reload.php:75 templates/iq_rpw_account.php:225
+#: templates/iq_rpw_account.php:261 templates/iq_rpw_action_logs.php:101
+#: templates/iq_rpw_users_list.php:99
+msgid "User"
+msgstr "Пользователь"
+
+#: data/data_user_reload.php:78 data/data_user_reload.php:88
+#: templates/iq_rpw_users_list.php:103
+msgid "Code"
+msgstr "Код"
+
+#: data/data_user_reload.php:121 templates/iq_rpw_users_list.php:111
+msgid "Invited"
+msgstr "Пригласил"
+
+#: data/data_user_reload.php:136 templates/iq_rpw_users_list.php:117
+msgid "Shopping"
+msgstr "Покупок"
+
+#: data/data_user_reload.php:139 templates/iq_rpw_users_list.php:128
+msgid "Sales"
+msgstr "Продаж"
+
+#: data/data_user_reload.php:142 templates/iq_rpw_users_list.php:137
+msgid "Turnover"
+msgstr "Обороты"
+
+#: data/data_user_reload.php:166 templates/iq_rpw_users_list.php:143
+msgid "Visits"
+msgstr "Посещений"
+
+#: data/data_user_reload.php:169 templates/iq_rpw_users_list.php:164
+msgid "Percent"
+msgstr "Процент"
+
+#: data/data_user_reload.php:174 data/data_user_reload.php:186
+#: templates/iq_rpw_users_list.php:168
+msgid "Enable"
+msgstr "Вкл"
+
+#: data/data_user_reload.php:188
+msgid "Disable"
+msgstr "Выкл"
+
+#: data/data_ws_item_reload.php:79 templates/iq_rpw_logs.php:57
+#: templates/iq_rpw_logs.php:105 templates/iq_rpw_requests.php:102
+msgid "Partner"
+msgstr "Партнер"
+
+#: data/data_ws_item_reload.php:82 templates/iq_rpw_account_withdraw.php:336
+#: templates/iq_rpw_requests.php:106
+msgid "System"
+msgstr "Система"
+
+#: data/data_ws_item_reload.php:85 templates/iq_rpw_account_withdraw.php:281
+#: templates/iq_rpw_account_withdraw.php:345 templates/iq_rpw_requests.php:110
+msgid "Requisites"
+msgstr "Реквизиты"
+
+#: data/data_ws_item_reload.php:88 templates/iq_rpw_account.php:229
+#: templates/iq_rpw_account.php:264 templates/iq_rpw_account_withdraw.php:348
+#: templates/iq_rpw_requests.php:114
+msgid "Sum"
+msgstr "Сумма"
+
+#: data/data_ws_item_reload.php:105
+msgid "comission"
+msgstr "комиссия"
+
+#: data/data_ws_item_reload.php:110 templates/iq_rpw_account.php:233
+#: templates/iq_rpw_account.php:276 templates/iq_rpw_account_withdraw.php:289
+#: templates/iq_rpw_account_withdraw.php:351
+#: templates/iq_rpw_action_logs.php:65 templates/iq_rpw_action_logs.php:107
+#: templates/iq_rpw_logs.php:69 templates/iq_rpw_logs.php:123
+#: templates/iq_rpw_requests.php:118
+msgid "Date"
+msgstr "Дата"
+
+#: data/data_ws_item_reload.php:121
+msgid "Change"
+msgstr "Изменить"
+
+#: data/data_ws_status_do.php:111 data/data_ws_status_index.php:48
+msgid "Available statuses not found"
+msgstr "Доступные статусы не найдены"
+
+#: data/data_ws_status_do.php:118 data/data_ws_status_do.php:123
+msgid "Incorrect status"
+msgstr "Некорректный статус"
+
+#: data/data_ws_status_do.php:141
+msgid "Failed to change status"
+msgstr "Не удалось изменить статус"
+
+#: data/data_ws_status_do.php:146
+#, php-format
+msgid "Admin changed withdrawal request status #%s to %s"
+msgstr "Админ изменил статус заявки #%s на %s"
+
+#: data/data_ws_status_do.php:151
+msgid "Status changed successfully"
+msgstr "Статус успешно изменен"
+
+#: data/data_ws_status_index.php:88
+msgid "In process..."
+msgstr "В обработке..."
+
+#: data/data_ws_status_index.php:89
+msgid "Completed"
+msgstr "Выполнена"
+
+#: data/data_ws_status_index.php:103
+msgid "Change status"
+msgstr "Изменить статус"
+
+#: data/data_ws_status_index.php:115
+msgid "New status"
+msgstr "Новый статус"
+
+#: includes/inc_func.php:10 templates/iq_rpw_account.php:57
+#: templates/iq_rpw_account_withdraw.php:29
+msgid "Referral programm"
+msgstr "Партнерская программа"
+
+#: includes/inc_menu.php:23 includes/inc_menu.php:24
+#: templates/iq_rpw_settings.php:21
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/inc_menu.php:33 includes/inc_menu.php:34
+msgid "Logs"
+msgstr "Логи зачислений"
+
+#: includes/inc_menu.php:43 includes/inc_menu.php:44
+#: templates/iq_rpw_action_logs.php:39
+msgid "Action logs"
+msgstr "Логи действий"
+
+#: includes/inc_menu.php:53 includes/inc_menu.php:54
+msgid "Requests"
+msgstr "Заявки на вывод"
+
+#: includes/inc_menu.php:63 includes/inc_menu.php:64
+msgid "Pyramid"
+msgstr "Пирамида"
+
+#: includes/inc_menu.php:74 includes/inc_menu.php:75
+msgid "Wizard"
+msgstr "Настройка"
+
+#: includes/inc_menu.php:84
+msgid "Plugins"
+msgstr "Плагины"
+
+#: includes/inc_menu.php:103
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/inc_menu.php:111
+msgid "License"
+msgstr "Лицензия"
+
+#: templates/iq_rpw_account.php:36 templates/iq_rpw_account.php:122
+msgid "Referral program not available"
+msgstr "Партнерская программа не доступна"
+
+#: templates/iq_rpw_account.php:73
+msgid "Your referral"
+msgstr "Информация"
+
+#: templates/iq_rpw_account.php:103
+msgid "Your referral link"
+msgstr "Ваша реферальная ссылка"
+
+#: templates/iq_rpw_account.php:134 templates/iq_rpw_account_withdraw.php:183
+msgid "Your referral balance"
+msgstr "Ваш баланс"
+
+#: templates/iq_rpw_account.php:170
+msgid ""
+"Share your referral link and get the amount to your partner balance from "
+"each purchase of an invited client"
+msgstr ""
+"Поделитесь Вашей реферальной ссылкой и получайте сумму на свой баланс "
+"партнера от каждой покупки приглашенного клиента"
+
+#: templates/iq_rpw_account.php:176
+msgid "Withdraw"
+msgstr "Вывести"
+
+#: templates/iq_rpw_account.php:218
+msgid "Your affiliate accruals"
+msgstr "Ваши начисления"
+
+#: templates/iq_rpw_account.php:249
+msgid "There are no accruals on your referral link yet"
+msgstr "Еще нету начислений по Вашей реферальной ссылке"
+
+#: templates/iq_rpw_account_withdraw.php:57
+msgid "Enter details for withdrawal"
+msgstr "Введите реквизиты для вывода"
+
+#: templates/iq_rpw_account_withdraw.php:68
+msgid "Choose a withdrawal system"
+msgstr "Выберите систему вывода"
+
+#: templates/iq_rpw_account_withdraw.php:74
+#: templates/iq_rpw_account_withdraw.php:87
+msgid "Unsupported withdrawal system"
+msgstr "Неподдерживаемая система вывода"
+
+#: templates/iq_rpw_account_withdraw.php:97
+msgid "Withdrawal amount must be greater than 0"
+msgstr "Сумма вывода должна быть больше 0"
+
+#: templates/iq_rpw_account_withdraw.php:105
+msgid "Select withdrawal currency"
+msgstr "Выберите валюту вывода"
+
+#: templates/iq_rpw_account_withdraw.php:116
+msgid "The specified amount is more than what you have on your balance"
+msgstr "Указанная сумма больше чем есть у Вас на балансе"
+
+#: templates/iq_rpw_account_withdraw.php:130
+#, php-format
+msgid "Minimum withdrawal amount in this system: %d"
+msgstr "Минимальная сумма вывода в выбранной системе: %d"
+
+#: templates/iq_rpw_account_withdraw.php:159
+msgid ""
+"Unfortunately, we were unable to create a withdrawal request. Contact Support"
+msgstr ""
+"К сожалению не удалось создать заявку на вывод. Обратитесь в службу поддержки"
+
+#: templates/iq_rpw_account_withdraw.php:219
+msgid ""
+"Create an application for the withdrawal of referral accruals. After "
+"processing the application, we will credit you with funds"
+msgstr ""
+"Создайте заявку на вывод реферальных начислений. После обработки заявки мы "
+"зачислим Вам средства"
+
+#: templates/iq_rpw_account_withdraw.php:270
+msgid "Withdrawal history"
+msgstr "История выводов"
+
+#: templates/iq_rpw_account_withdraw.php:277
+msgid "System for payout"
+msgstr "Система"
+
+#: templates/iq_rpw_account_withdraw.php:308
+msgid "You have not created withdrawal requests yet"
+msgstr "Вы еще не создавали заявок на вывод"
+
+#: templates/iq_rpw_action_logs.php:52
+msgid ""
+"In this section, you can view the logs of administrators who performed "
+"actions with IQ referral program"
+msgstr ""
+"В данном разделе Вы можете просмотреть логи администраторов которые "
+"выполняли действия с IQ реферальной программой"
+
+#: templates/iq_rpw_action_logs.php:57
+msgid "Admin"
+msgstr "Админ"
+
+#: templates/iq_rpw_action_logs.php:61 templates/iq_rpw_action_logs.php:104
+msgid "Log"
+msgstr "Лог"
+
+#: templates/iq_rpw_action_logs.php:84
+msgid "Actions were not found"
+msgstr "Действия не найдены"
+
+#: templates/iq_rpw_action_logs.php:87
+msgid "The actions of the referral program are absent"
+msgstr "Действия реферальной программы отсутствуют"
+
+#: templates/iq_rpw_action_logs.php:88
+msgid ""
+"As soon as the program settings are performed, the logs will become available"
+msgstr "Как только будут выполнятся настройки программы, логи станут доступны"
+
+#: templates/iq_rpw_logs.php:39
+msgid "Logs referral"
+msgstr "Логи"
+
+#: templates/iq_rpw_logs.php:52
+msgid ""
+"In this section you can view all the logs associated with your referral "
+"program"
+msgstr ""
+"В данном разделе Вы можете просмотреть все логи связанные с Вашей "
+"реферальной программой"
+
+#: templates/iq_rpw_logs.php:61 templates/iq_rpw_logs.php:108
+msgid "Client"
+msgstr "Клиент"
+
+#: templates/iq_rpw_logs.php:65 templates/iq_rpw_logs.php:111
+msgid "Credited"
+msgstr "Зачислено"
+
+#: templates/iq_rpw_logs.php:88
+msgid "Logs are not found"
+msgstr "Логи не найдены"
+
+#: templates/iq_rpw_logs.php:91
+msgid "Logs of referral enrollment were not found"
+msgstr "Логи зачислений рефералов не найдены"
+
+#: templates/iq_rpw_logs.php:92
+msgid ""
+"As soon as the first enrollment of the referral link will be, logs will "
+"appear"
+msgstr ""
+"Как только будут первые зачисления по реферальной ссылке, появятся логи"
+
+#: templates/iq_rpw_requests.php:19
+msgid "Withdrawal applications"
+msgstr "Заявки на вывод"
+
+#: templates/iq_rpw_requests.php:41
+msgid "Select status"
+msgstr "Выберите статус"
+
+#: templates/iq_rpw_requests.php:48
+msgid "An error occurred while trying to update the status"
+msgstr "Произошла ошибка при попытке обновить статус"
+
+#: templates/iq_rpw_requests.php:64
+msgid "Status updated successfully"
+msgstr "Статус успешно обновлен"
+
+#: templates/iq_rpw_requests.php:94
+msgid ""
+"In this section, applications for the withdrawal of your partners are "
+"provided"
+msgstr "В данном разделе предоставлены заявки на вывод Ваших партнеров"
+
+#: templates/iq_rpw_requests.php:141
+msgid "No applications were found"
+msgstr "Заявки не найдены"
+
+#: templates/iq_rpw_requests.php:144
+msgid "Applications for the withdrawal of balance were not found"
+msgstr "Заявки на вывод баланса не найдены"
+
+#: templates/iq_rpw_requests.php:145
+msgid "As soon as users create applications, it will become available here"
+msgstr "Как только пользователи создадут заявки, она станет доступна здесь"
+
+#: templates/iq_rpw_settings.php:62
+msgid "An error has occurred"
+msgstr "Ошибка! Не удалось сохранить настройки"
+
+#: templates/iq_rpw_settings.php:69 wizard/data/data_wizard_settings_do.php:106
+msgid "Admin save new settings"
+msgstr "Админ сохранил новые настройки"
+
+#: templates/iq_rpw_settings.php:81
+msgid "Settings saved successfully"
+msgstr "Настройки успешно сохранены"
+
+#: templates/iq_rpw_settings.php:112
+msgid "Settings for a new partner"
+msgstr "Настройки для нового партнера"
+
+#: templates/iq_rpw_settings.php:115
+msgid ""
+"When registering or adding a new user, he automatically enters the IQ "
+"Referral system. Set the default settings for the new user"
+msgstr ""
+"При регистрации или добавлении нового пользователя он автоматически попадает "
+"в реферальную программу IQ Referral. Выставьте настройки по умолчанию для "
+"нового пользователя"
+
+#: templates/iq_rpw_settings.php:120 wizard/pages/iq_rpw_wizard_step3.php:25
+msgid "Default status"
+msgstr "Статус по умолчанию"
+
+#: templates/iq_rpw_settings.php:137
+#: templates/iq_rpw_settings_withdrawal_systems.php:107
+#: wizard/pages/iq_rpw_wizard_step3.php:30
+msgid "Off"
+msgstr "Выкл"
+
+#: templates/iq_rpw_settings.php:140
+#: templates/iq_rpw_settings_withdrawal_systems.php:105
+#: wizard/pages/iq_rpw_wizard_step3.php:33
+msgid "On"
+msgstr "Вкл"
+
+#: templates/iq_rpw_settings.php:146 wizard/pages/iq_rpw_wizard_step3.php:40
+msgid "Default percent"
+msgstr "Процент по умолчанию"
+
+#: templates/iq_rpw_settings.php:173
+msgid "On/Off pyramid levels"
+msgstr "Вкл/Выкл уровни пирамиды"
+
+#: templates/iq_rpw_settings.php:191
+msgid "Available in PRO version"
+msgstr "Доступно в PRO"
+
+#: templates/iq_rpw_settings.php:217
+msgid "Run setup wizard"
+msgstr "Запустить мастер настройки"
+
+#: templates/iq_rpw_settings_withdrawal_systems.php:28
+msgid "Withdrawal systems"
+msgstr "Системы вывода"
+
+#: templates/iq_rpw_settings_withdrawal_systems.php:59
+#: templates/iq_rpw_settings_withdrawal_systems.php:111
+msgid "Action"
+msgstr "Действие"
+
+#: templates/iq_rpw_settings_withdrawal_systems.php:77
+msgid "There are no withdrawal systems"
+msgstr "Системы вывода отсутствуют"
+
+#: templates/iq_rpw_settings_withdrawal_systems.php:80
+msgid "You have not added any withdrawal systems yet"
+msgstr "Вы еще не добавили ни одной системы вывода"
+
+#: templates/iq_rpw_settings_withdrawal_systems.php:81
+msgid "You can add the system by pressing"
+msgstr "Вы можете добавить систему нажав"
+
+#: templates/iq_rpw_users_list.php:82
+msgid "User partners"
+msgstr "Партнеры"
+
+#: templates/iq_rpw_users_list.php:107
+#, fuzzy
+#| msgid "Ref balance"
+msgid "Balance"
+msgstr "Баланс"
+
+#: templates/iq_rpw_users_list.php:156
+msgid "Level"
+msgstr "Уровень"
+
+#: templates/iq_rpw_users_list.php:187
+msgid "Partners were not found"
+msgstr "Партнеры не найдены"
+
+#: templates/iq_rpw_users_list.php:190
+msgid "There are no partners at the moment"
+msgstr "На данный момент партнеры отсутствуют"
+
+#: templates/iq_rpw_users_list.php:191
+msgid "You can import existing users through"
+msgstr "Вы можете импортировать существующих пользователей через"
+
+#: templates/iq_rpw_window_pro.php:22
+msgid "Upgrade to PRO"
+msgstr "Обновитесь до PRO"
+
+#: templates/iq_rpw_window_pro.php:25
+msgid "Getting the most out of a"
+msgstr "Максимальная отдача от"
+
+#: templates/iq_rpw_window_pro.php:26
+msgid "Upgrade to PRO and unlock all features"
+msgstr "Обновитесь до PRO и разблокируйте все функции"
+
+#: templates/iq_rpw_window_pro.php:31
+msgid "More information"
+msgstr "Больше информации"
+
+#: wizard/data/data_wizard_import.php:46
+msgid "Users successfully imported"
+msgstr "Пользователи успешно импортированы"
+
+#: wizard/data/data_wizard_settings_do.php:110
+msgid "Settings applied successfully"
+msgstr "Параметры успешно применены"
+
+#: wizard/data/data_wizard_withdraw_do.php:137
+msgid "System for withdrawing has been successfully added"
+msgstr "Система для вывода успешно добавлена"
+
+#: wizard/iq_referral_wizard.php:66
+msgid "Back to control panel"
+msgstr "Вернуться в панель управления"
+
+#: wizard/pages/iq_rpw_wizard_step1.php:9
+msgid "Welcome to the referral program"
+msgstr "Добро пожаловать в реферальную программу"
+
+#: wizard/pages/iq_rpw_wizard_step1.php:13
+msgid ""
+"This setup wizard will help you quickly set up your referral program in "
+"order to attract more customers"
+msgstr ""
+"Данный мастер настройки поможет Вам быстро настроить Вашу реферальную "
+"программу с целью большего привлечения клиентов"
+
+#: wizard/pages/iq_rpw_wizard_step1.php:17
+msgid "Let`s start setting up"
+msgstr "Начнем настройку"
+
+#: wizard/pages/iq_rpw_wizard_step2.php:10
+msgid "Importing Users"
+msgstr "Импортировать"
+
+#: wizard/pages/iq_rpw_wizard_step2.php:13
+msgid ""
+"In order to enable current users to act as a partner, you need to import "
+"them into the IQ Referral referral program"
+msgstr ""
+"Для того чтобы предоставить возможность текущим пользователям выступать в "
+"качестве партнера Вам необходимо импортировать их в реферальную программу IQ "
+"Referral"
+
+#: wizard/pages/iq_rpw_wizard_step2.php:19
+#: wizard/pages/iq_rpw_wizard_step3.php:72
+#: wizard/pages/iq_rpw_wizard_step4.php:84
+#: wizard/pages/iq_rpw_wizard_step5.php:34
+msgid "Come back"
+msgstr "Вернуться назад"
+
+#: wizard/pages/iq_rpw_wizard_step2.php:22
+msgid "Import users"
+msgstr "Импортировать пользователей"
+
+#: wizard/pages/iq_rpw_wizard_step2.php:25
+#: wizard/pages/iq_rpw_wizard_step3.php:78
+#: wizard/pages/iq_rpw_wizard_step4.php:96
+#: wizard/pages/iq_rpw_wizard_step5.php:40
+msgid "Skip"
+msgstr "Пропустить"
+
+#: wizard/pages/iq_rpw_wizard_step3.php:15
+msgid "Default options"
+msgstr "Значения по умолчанию"
+
+#: wizard/pages/iq_rpw_wizard_step3.php:18
+msgid ""
+"Set the referral program values that will be enabled by default. You can "
+"always change the values for a specific user in the plugin settings IQ "
+"Referral"
+msgstr ""
+"Установите значения реферальной программы которые будут задействованы по "
+"умолчанию. Вы всегда сможете изменить значения для конкретного пользователя "
+"в настройках плагина IQ Referral"
+
+#: wizard/pages/iq_rpw_wizard_step3.php:75
+msgid "Apply settings"
+msgstr "Применить настройки"
+
+#: wizard/pages/iq_rpw_wizard_step4.php:17
+msgid "Withdrawal system"
+msgstr "Система вывода"
+
+#: wizard/pages/iq_rpw_wizard_step4.php:20
+msgid ""
+"In order for your partners to be able to create withdrawal requests from "
+"their referral balance, you need to add at least one withdrawal system. For "
+"example: PayPal"
+msgstr ""
+"Для того чтобы Ваши партнеры имели возможность создавать заявки на вывод "
+"средств с своего реферального баланса требуется добавить хотя бы одну "
+"систему вывода. К примеру: PayPal"
+
+#: wizard/pages/iq_rpw_wizard_step4.php:34
+#: wizard/pages/iq_rpw_wizard_step5.php:22
+msgid "Great"
+msgstr "Отлично"
+
+#: wizard/pages/iq_rpw_wizard_step4.php:37
+msgid ""
+"You have already added systems for withdrawing funds. You can add additional "
+"ones in the IQ Referral plugin settings"
+msgstr ""
+"У Вас уже добавлены системы для вывода средств. Дополнительные Вы можете "
+"добавить в настройках плагина IQ Refferal"
+
+#: wizard/pages/iq_rpw_wizard_step4.php:88
+#: wizard/pages/iq_rpw_wizard_step5.php:37
+msgid "Finish setup"
+msgstr "Завершить настройку"
+
+#: wizard/pages/iq_rpw_wizard_step4.php:92
+msgid "Create"
+msgstr "Создать"
+
+#: wizard/pages/iq_rpw_wizard_step5.php:10
+msgid "Setup completed"
+msgstr "Настройка завершена"
+
+#: wizard/pages/iq_rpw_wizard_step5.php:26
+msgid "Basic IQ Referral setup completed successfully"
+msgstr "Базовая настройка IQ Referral успешно завершена"
+
+#~ msgid "Level name"
+#~ msgstr "Название уровня"
+
+#~ msgid "Minimum sales amount"
+#~ msgstr "Минимальная сумма продаж"
+
+#~ msgid "Maximum sales amount"
+#~ msgstr "Максимаьная сумма продаж"
+
+#~ msgid ""
+#~ "The maximum sales amount must be greater than the minimum sales amount"
+#~ msgstr ""
+#~ "Максимальная сумма продаж обязательно должна быть больше минимальной "
+#~ "суммы продаж"
+
+#~ msgid "Currency"
+#~ msgstr "Валюта"
+
+#~ msgid "The specified currency is not supported"
+#~ msgstr "Указанная валюта не поддерживается"
+
+#~ msgid "There are already levels within the specified sales amount interval"
+#~ msgstr "В указанный промежуток суммы продаж уже есть уровни"
+
+#~ msgid "Admin update pyramid level"
+#~ msgstr "Админ обновил уровень пирамиды"
+
+#~ msgid "Admin add pyramid level"
+#~ msgstr "Админ добавил уровень пирамиды"
+
+#~ msgid "Required amount"
+#~ msgstr "Требуемая сумма"
+
+#~ msgid "Edit level"
+#~ msgstr "Редактировать уровень"
+
+#~ msgid "Add level"
+#~ msgstr "Добавить уровень"
+
+#~ msgid ""
+#~ "Add the name of the level and the percentage of the partner that will be "
+#~ "automatically set for the partner as soon as the client he attracted "
+#~ "crosses the specified threshold"
+#~ msgstr ""
+#~ "Добавьте название уровня и процент партнера который будет автоматически "
+#~ "устанавливаться партнеру как только привлеченный им клиент переступит "
+#~ "указанный порог"
+
+#~ msgid "Elementary"
+#~ msgstr "Начальный"
+
+#~ msgid ""
+#~ "As soon as the clients attracted by the partner exceed the minimum amount "
+#~ "of sales, the partner will receive the referral percentage you specified "
+#~ "automatically"
+#~ msgstr ""
+#~ "Как только привлеченные клиенты партнером превысят минимальную сумму "
+#~ "продаж, партнер получит указанный Вами процент реферала автоматически"
+
+#~ msgid ""
+#~ "The minimum and maximum amount of sales is the period in which the "
+#~ "specified level will be issued, depending on the purchases of attracted "
+#~ "customers by the partner"
+#~ msgstr ""
+#~ "Минимальная и максимальная сумма продаж это промежуток в который будет "
+#~ "выдан указанный уровень в зависимости от покупок привлеченных клиентов "
+#~ "партнером"
+
+#~ msgid "PRO required. Check license"
+#~ msgstr "Требуется PRO. Проверьте лицензию"
+
+#~ msgid ""
+#~ "The pyramid feature is available for the PRO version. Please check the "
+#~ "license"
+#~ msgstr ""
+#~ "Функция пирамиды доступна для версии PRO. Пожалуйста, проверьте лицензию"
+
+#~ msgid "Create level"
+#~ msgstr "Создать уровень"
+
+#~ msgid ""
+#~ "The pyramid will allow you to issue the percentage you specify to the "
+#~ "partner automatically, depending on the amount of purchases you set by "
+#~ "the client whom he referred"
+#~ msgstr ""
+#~ "Пирамида позволит Вам выдавать указанный Вами процент партнеру "
+#~ "автоматически в зависимости от установленных Вами суммы покупок клиентом "
+#~ "которого он привел"
+
+#~ msgid "Levels are not found"
+#~ msgstr "Уровни не найдены"
+
+#~ msgid "You have not added pyramid levels yet"
+#~ msgstr "Вы еще не добавляли уровни пирамиды"
+
+#~ msgid "To add a new level click"
+#~ msgstr "Чтобы добавить новый уровень нажмите"
+
+#~ msgid "User name"
+#~ msgstr "Имя"
+
+#~ msgid "Ref code"
+#~ msgstr "Код"
+
+#~ msgid "Ref sales"
+#~ msgstr "Продаж"
+
+#~ msgid "Ref percent"
+#~ msgstr "Процент"
+
+#~ msgid "Ref enable"
+#~ msgstr "Статус"
+
+#~ msgid "Other plugins"
+#~ msgstr "Плагины"
+
+#~ msgid "- Select status -"
+#~ msgstr "- Выберите статус -"
+
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+
+#~ msgid "Comment (not necessary)"
+#~ msgstr "Комментарий (не обязательно)"
+
+#~ msgid "No logs yet"
+#~ msgstr "Логи отсутствуют"
+
+#~ msgid "No referral logs yet"
+#~ msgstr "Реферальных логов еще нет"
+
+#~ msgid "There are currently no applications"
+#~ msgstr "На данный момент заявки отсутствуют"
+
+#~ msgid "No referral partners yet"
+#~ msgstr "Реферальных партнеров пока нет"
+
+#~ msgid ""
+#~ "This page provides a list of registered users of the site. You can change "
+#~ "the referral percentage for the user or generate another affiliate code "
+#~ "for him. You can also disable the user from participating in the referral "
+#~ "program"
+#~ msgstr ""
+#~ "На данной странице предоставлен список зарегистрированных пользователей "
+#~ "сайта. Вы можете изменять пользователю процент реферала или сгенерировать "
+#~ "ему другой партнерский код. Также Вы можете отключить пользователя от "
+#~ "участия в реферальной программе."
+
+#~ msgid ""
+#~ "Get the most out of IQ Refferal by upgrading to Pro and unlocking all "
+#~ "features"
+#~ msgstr ""
+#~ "Получите максимальную отдачу от IQ Refferal, обновившись до Pro и "
+#~ "разблокировав все функции"
+
+#~ msgid "Possibilities"
+#~ msgstr "Возможности"
+
+#~ msgid "Referral percentage"
+#~ msgstr "Процент реферала"
+
+#~ msgid "You can not set an individual percentage for a partner"
+#~ msgstr "Нельзя устанавливать индивидуальный процент для партнера"
+
+#~ msgid "Ability to set the percentage individually for each partner"
+#~ msgstr "Возможность установки процента индивидуально для каждого партнера"
+
+#~ msgid "Adding only up to 3 withdrawal systems"
+#~ msgstr "Добавление только до 3 систем вывода"
+
+#~ msgid "Ability to add up to 10 withdrawal systems"
+#~ msgstr "Возможность добавления до 10 систем вывода"
+
+#~ msgid "Always constant referral percentage for everyone"
+#~ msgstr "Всегда постоянный процент реферала для всех"
+
+#~ msgid ""
+#~ "Possibility of inclusion of the percent-bonus program established by you. "
+#~ "Accrual levels depending on the clients attracted by the partner, which "
+#~ "in turn will significantly increase the partner`s interest in attracting "
+#~ "new clients"
+#~ msgstr ""
+#~ "Возможность включения установленной Вами процентно-бонусной программы. "
+#~ "Уровни начисления в зависимости от привлеченных партнером клиентов что в "
+#~ "свою очередь значительно увеличит заинтересованость партнера в "
+#~ "привлечении новых клиентов"
+
+#~ msgid "Updates"
+#~ msgstr "Обновления"
+
+#~ msgid "Only important updates"
+#~ msgstr "Только важные обновления"
+
+#~ msgid "All system updates and improvements"
+#~ msgstr "Все обновления и улучшения системы"
+
+#~ msgid "Limited support"
+#~ msgstr "Ограниченная поддержка"
+
+#~ msgid "Priority support"
+#~ msgstr "Приоритетная поддержка"
+
+#~ msgid "IQ Referral › Installation Wizard"
+#~ msgstr "IQ Referral› Мастер установки"
+
+#~ msgid "Pyramid levels not yet added"
+#~ msgstr "Уровни пирамиды еще не добавлены"
+
+#~ msgid "Partner programm"
+#~ msgstr "Партнерская программа"
+
+#~ msgid "Advanced"
+#~ msgstr "Продвинутый"
+
+#~ msgid "Tie to"
+#~ msgstr "Привязать к"
+
+#~ msgid ""
+#~ "In this section you can manage the global settings of your referral "
+#~ "program"
+#~ msgstr ""
+#~ "В данном разделе Вы сможете управлять глобальными настройками Вашей "
+#~ "рефферальной программы"
+
+#~ msgid "Withdrawal form"
+#~ msgstr "Форма вывода"
+
+#~ msgid "Withdrawal details"
+#~ msgstr "Реквизиты"
+
+#~ msgid "Your percentage of accrual from each purchase"
+#~ msgstr "Ваш процент начисления от каждой покупки"
+
+#~ msgid "Default refferal user procent"
+#~ msgstr "Процент для нового партнера по умолчанию"
+
+#~ msgid "Hello"
+#~ msgstr "Привет"
